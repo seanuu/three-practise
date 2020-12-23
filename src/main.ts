@@ -1,0 +1,10 @@
+// import './practices/01-scene/index';
+// import './practices/02-material-light-shadow/index';
+// import './practices/03-animation/index';
+// import './practices/04-custom-geometry/index';
+// import './practices/05-materials/index';
+// import './practices/06-panorama_equirectangular/index.js';
+// import './practices/07-panoramo-cube/index.js';
+// import './practices/08-OrthographicCamera';
+// import './practices/10-lensflare/lensflare-demo.js';
+import './practices/11-shader/shader';
